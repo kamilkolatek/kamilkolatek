@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Kamil
+- 👀 I’m interested in programming, mostly mobile development
+- 🌱 I’m currently learning Spring, Hibernate, React.js
+- 📫 You can reach me via e-mail k.kolatek@o2.pl
